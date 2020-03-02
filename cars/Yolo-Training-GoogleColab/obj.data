@@ -1,0 +1,5 @@
+classes= 1  
+train  = /content/darknet/cars/Yolo-Training-GoogleColab/train.txt
+valid  = /content/darknet/cars/Yolo-Training-GoogleColab/test.txt
+names = /content/darknet/cars/Yolo-Training-GoogleColab/obj.name
+backup = backup/

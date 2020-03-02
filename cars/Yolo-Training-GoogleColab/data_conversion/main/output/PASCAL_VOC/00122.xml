@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>00122.jpg</filename>
+  <path>c:\Users\ani\Desktop\Yolo-Training-GoogleColab\data_conversion\main\input\00122.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73</xmin>
+      <ymin>69</ymin>
+      <xmax>219</xmax>
+      <ymax>176</ymax>
+    </bndbox>
+  </object>
+</annotation>
