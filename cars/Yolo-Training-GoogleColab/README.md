@@ -4,21 +4,22 @@ Here is the implementation of Tiny Yolo_V3 for detecting the object of your own 
 
 **The following are the steps to detect the object using Tiny_YoloV3**
 
-Prepare the data by downloading the images of your own choice
+* Prepare the data by downloading the images of your own choice
 
-Split the dataset into train-test 
+* Split the dataset into train-test 
 
-Calculate anchor boxes for the data
+* Calculate anchor boxes for the data
 
-Modify the configuration(*.cfg*) file according to the number of classes in the dataset (in this implementation, only one class is present to detect)
+* Modify the configuration(*.cfg*) file according to the number of classes in the dataset (in this implementation, only one class is  
+* present to detect)
 
-Make a zip folder of this data and upload to Google drive
+* Make a zip folder of this data and upload to Google drive
 
-In Colab environment, mount Google drive and unzip this folder and train the model
+* In Colab environment, mount Google drive and unzip this folder and train the model
 
-Test the model with predictions.png since DarkNet was not compiled with OpenCV. Hence it cannot display detection directly.
+* Test the model with predictions.png since DarkNet was not compiled with OpenCV. Hence it cannot display detection directly.
 
-Run this on any video file and save the mp4 format
+* Run this on any video file and save the mp4 format
 
 
 
