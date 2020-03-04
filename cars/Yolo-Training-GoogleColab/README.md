@@ -1,6 +1,7 @@
 **TINY YOLO_V3 USING CUSTOM DATASET**
 
-Here is the implementation of Tiny Yolo_V3 for detecting the object of your own choice. In this age of Data science, Google colaboratory is a boon which give access to GPUs and upto 13GB of RAM to anyone having google account.
+Here is the implementation of Tiny Yolo_V3 for detecting the object of your own choice. In this age of Data science, Google colaboratory is a boon which gives free access to GPUs and upto 13GB of RAM to anyone having google account but for this project CUDA needs to be installed. Please refer this this link for more info 
+https://colab.research.google.com/github/ShimaaElabd/CUDA-GPU-Contrast-Enhancement/blob/master/CUDA_GPU.ipynb#scrollTo=h7lbKJvm-SLG
 
 **The following are the steps to detect the object using Tiny_YoloV3**
 
