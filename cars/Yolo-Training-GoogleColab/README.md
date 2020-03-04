@@ -10,8 +10,7 @@ Here is the implementation of Tiny Yolo_V3 for detecting the object of your own 
 
 * Calculate anchor boxes for the data
 
-* Modify the configuration(*.cfg*) file according to the number of classes in the dataset (in this implementation, only one class is  
-* present to detect)
+* Modify the configuration(*.cfg*) file according to the number of classes in the dataset (in this implementation, only one class is  present to detect)
 
 * Make a zip folder of this data and upload to Google drive
 
